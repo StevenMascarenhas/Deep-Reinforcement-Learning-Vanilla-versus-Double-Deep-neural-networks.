@@ -4,24 +4,6 @@ Deep Reinforcement Learning: Teaching an Atari Breakout Agent with DQN & Doubl
 
 
 
-📑 Table of Contents
-
-Why Reinforcement Learning?
-
-The Environment & Setup
-
-DQN Implementations
-
-Training & Evaluation
-
-Added Value – PER & Tuning
-
-Extending This Work
-
-Key References
-
-License
-
 1. Why Reinforcement Learning?
 
 Deep Reinforcement Learning (DRL) lets machines learn behaviour directly from high‑dimensional sensory input by maximising long‑term reward. Breakout is an excellent testbed: sparse reward, rich visuals, delayed credit assignment and a non‑trivial optimal strategy (precise paddle control, tunnel carving, ball trapping).
