@@ -1,0 +1,23 @@
+# ---- Python / Jupyter ----
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+
+# ---- Virtual environments ----
+dqn_breakout/.venv/
+env/
+venv/
+
+# ---- Large model or data files ----
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# ---- OS / editor cruft ----
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
